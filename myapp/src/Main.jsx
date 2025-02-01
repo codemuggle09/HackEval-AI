@@ -1,5 +1,10 @@
 import React from "react";
+import Homepage from "./Home";
 
 export default function Main() {
-  return <div></div>;
+  return (
+    <div>
+      <Homepage />
+    </div>
+  );
 }
