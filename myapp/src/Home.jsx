@@ -60,12 +60,12 @@ const Homepage = () => {
       </section>
 
       {/* Call to Action Section */}
-      <section className="py-20 bg-gray-900 text-white text-center">
+      <section className="py-20 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-white text-center">
         <div className="max-w-5xl mx-auto">
           <h2 className="text-4xl font-bold mb-6 animate-fade-in">
             📅 AI Hackathon Calendar
           </h2>
-          <p className="text-lg mb-8 text-gray-300">
+          <p className="text-lg mb-8 text-gray-200">
             Don't miss out on upcoming hackathons, AI competitions, and
             webinars.
           </p>
