@@ -6,7 +6,7 @@ HackEval AI is your **intelligent hackathon mentor and judge**, designed to eval
 
 ---
 
-## 🔍 What It Does
+##  What It Does
 
 **HackEval AI** acts as a multi-role assistant for hackathons:
 
@@ -16,7 +16,7 @@ HackEval AI is your **intelligent hackathon mentor and judge**, designed to eval
 
 ---
 
-## 🧠 Core Features
+##  Core Features
 
 - **AI-Powered Scoring**: Automatically evaluates projects on innovation, feasibility, code quality, and design.
 - **Real-Time Feedback**: Participants get helpful tips while developing, not just after submission.
@@ -26,7 +26,7 @@ HackEval AI is your **intelligent hackathon mentor and judge**, designed to eval
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer        | Technology Stack                      |
 |--------------|----------------------------------------|
@@ -38,11 +38,4 @@ HackEval AI is your **intelligent hackathon mentor and judge**, designed to eval
 
 ---
 
-## 🚀 Getting Started
-
-Clone the repo and jump in:
-
-```bash
-git clone https://github.com/your-username/hackeval-ai.git
-cd hackeval-ai
 
